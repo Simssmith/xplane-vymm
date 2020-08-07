@@ -16,7 +16,7 @@ I
 1302 transition_level 6500
 1302 drive_on_left 1
 100 45.72 1 0 0.25 0 2 0 04  16.43891048  097.65644351    0    0 1 0 0 0 22  16.45078682  097.66523082    0    0 1 0 0 0
-110 4 0.00 5.0000 New Taxiway 1
+110 5 0.00 5.0000 New Taxiway 1
 111  16.44308074  097.65848503
 111  16.44349501  097.65881388
 111  16.44312584  097.65931947
@@ -40,9 +40,9 @@ I
 1300  16.44379445  097.65838186 -53.34 tie_down jets|turboprops|props GA2
 1301 A general_aviation 
 1300  16.44438451  097.65886108 -53.34 tie_down jets|turboprops|props GA4
-1301 A general_aviation 
-1300  16.44351972  097.65816871 -53.34 tie_down jets|turboprops|props GA1
-1301 A general_aviation 
+1301 B general_aviation 
+1300  16.44351972  097.65816872 -53.34 tie_down jets|turboprops|props GA1
+1301 B general_aviation 
 1300  16.44410435  097.65863589 -53.34 tie_down jets|turboprops|props GA3
 1301 A general_aviation 
 1300  16.44170741  097.65767185 -55.84 tie_down jets|turboprops New Ramp Start 3
